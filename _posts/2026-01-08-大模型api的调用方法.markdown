@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Welcome to API!!!"
+title:	"大模型api的调用方式"
 data:	2026-01-08 22:29:20 +0800
 categories: jekyll update
 ---
